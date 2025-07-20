@@ -1,8 +1,8 @@
-# Yates 的个人博客
+# SiweiCyberSec.com
 
-https://yates0x00.com
+https://siweicybersec.com
 
-使用了Jekyll （部分使用）
+使用了Jekyll
 
 ## 使用
 
@@ -41,4 +41,3 @@ $ bundle exec jekyll serve --host 0.0.0.0
 
 这样 jekyll server 会自动的把前面的日期在title中去掉。
 
-![](blog.jpg)
